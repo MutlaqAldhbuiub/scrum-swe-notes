@@ -37,6 +37,34 @@ __Duration: 15m__
 
 ## Sprint Review Meeting
 After the sprint finish "for e.g. two weeks" they take an overview about everything has been done in this sprint for the customer to get approve. 
+
+## Product owner
+Product Owner at the first of this meeting will 
+declare which of the Product Backlog Items committed to the sprint
+( What he/her agree with the team to build )
+## What they doing in this meeting?
+Team browse what did they did in this sprint.
+
+## How attend this meeting?
+* all stakeholders e.g.
+  * Development team
+  * Product owner
+  * URI User
+  * Victor VIP
+  * Scrum Master
+  * CEO
+  
+## What happen to Items that are not "Done" or "Almost Done"?
+All of them will be moved in their entirety back to the Product Backlog
+``` 
+You don't move them to the next Sprint,
+Because there's a Sprint Planning Meeting and they will decide if they will works on it or not, 
+based on the priority.
+```
+
+## Feedback
+Usually you should hear a feedback from stakeholders
+
 __Customer might approve and might reject, So Every Product backlog item must be accepted in the Sprint review Meeting from the customer.__
 
 __Duration: 2h__
