@@ -5,7 +5,7 @@ who is responsible for the project, he understand everything in business project
 __He care about business not the technical__
 Also he is :
 * Responsible for Return On Investment (ROI)
-* Final arbiter of requirements questions. 
+* Final arbiter of requirements questions. *يجاوب على الاسئلة للتيم"
 * Focused more on the "What" not "How"
 
 ### forecast
